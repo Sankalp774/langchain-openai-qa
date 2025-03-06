@@ -14,3 +14,12 @@ Python 3.8 or higher
 pip (Python package installer)
 Install Dependencies
 Then, install the required packages:
+
+Configuration
+Before running the application, ensure you have set the necessary environment variables. Create a .env file in the project root with the following content:
+
+ini
+Copy
+Edit
+OPENAI_API_KEY=your_openai_api_key_here
+Replace your_openai_api_key_here with your actual OpenAI API key. Additional configuration options may be added as needed.
