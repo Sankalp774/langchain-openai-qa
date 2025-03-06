@@ -13,3 +13,4 @@ Prerequisites
 Python 3.8 or higher
 pip (Python package installer)
 Install Dependencies
+Then, install the required packages:
