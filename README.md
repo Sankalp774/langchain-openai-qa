@@ -22,7 +22,7 @@ ini
 Copy
 Edit
 OPENAI_API_KEY=your_openai_api_key_here
-Replace your_openai_api_key_here with your actual OpenAI API key. Additional configuration options may be added as needed.
+Replace your_openai_api_key_here with your actual "OpenAI API" key. Additional configuration options may be added as needed.
 
 Deployment
 The application is designed to be deployed on Hugging Face Spaces. To deploy:
