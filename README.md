@@ -37,7 +37,8 @@ Contributions are welcome. To contribute:
 Fork the repository.
 Create a new branch for your feature or bug fix.
 Make your changes and ensure all tests pass.
-Submit a pull request with a detailed description of your changes.
+Submit a pull request with a detailed description of your changes. 
+You can also notify or ping me personally in my given contact details.
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
