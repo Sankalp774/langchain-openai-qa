@@ -16,7 +16,8 @@ Install Dependencies
 Then, install the required packages:
 
 Configuration
-Before running the application, ensure you have set the necessary environment variables. Create a .env file in the project root with the following content:
+Before running the application, ensure you have set the necessary environment variables. 
+Create a .env file in the project root with the following content:
 
 ini
 Copy
