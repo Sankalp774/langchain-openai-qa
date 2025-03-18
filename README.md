@@ -33,7 +33,7 @@ Create a new Space on Hugging Face.
 Push your repository to the Space following the Hugging Face deployment guidelines.
 Ensure all environment variables and dependencies are properly configured.
 
-Contributing
+Contributing 
 Contributions are welcome.
 To contribute:
 Fork the repository.
