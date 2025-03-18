@@ -34,7 +34,8 @@ Push your repository to the Space following the Hugging Face deployment guidelin
 Ensure all environment variables and dependencies are properly configured.
 
 Contributing
-Contributions are welcome. To contribute:
+Contributions are welcome.
+To contribute:
 Fork the repository.
 Create a new branch for your feature or bug fix.
 Make your changes and ensure all tests pass.
