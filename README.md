@@ -9,7 +9,7 @@ OpenAI Powered: Utilizes OpenAI's language models to generate high-quality respo
 Hugging Face Spaces Deployment: Easily deployable on Hugging Face Spaces for accessible demos.
 
  
-Prerequisites
+Prerequisites 
 Python 3.8 or higher
 pip (Python package installer)
 Install Dependencies
